@@ -1,0 +1,16 @@
+.mail{
+    margin: 2vh;
+    padding: 0vh;
+    bottom: 3vh;
+    border-radius: 25%;
+    border-color: white;
+    width: 25vh;
+}
+.discord{
+    margin: 2vh;
+    padding: 0vh;
+    bottom: 3vh;
+    border-radius: 100%;
+    border-color: white;
+    width: 14vh;
+}
